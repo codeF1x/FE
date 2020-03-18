@@ -8,7 +8,7 @@
 	- [CSS](CSS)
 	- [JavaScript](JavaScript)
 	- [HTML](HTML)
-	- [ES6](ES6)
+	- [ES6、ES7、ES8特性一锅炖(ES6、ES7、ES8学习指南)](https://github.com/codeF1x/FE/issues/1)
 	- [TypeScript](TypeScript)
 
 - [前端框架](前端框架) 
